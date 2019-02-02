@@ -1,3 +1,10 @@
+Fork of amazing [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio).
+
+Just remove some modules.
+
+
+-----
+
 # ESP8266Audio - supports ESP8266 & ESP32 [![Build Status](https://travis-ci.org/earlephilhower/ESP8266Audio.svg?branch=master)](https://travis-ci.org/earlephilhower/ESP8266Audio)
 Arduino library for parsing and decoding MOD, WAV, MP3, FLAC, MIDI, AAC, and RTTL files and playing them on an I2S DAC or even using a software-simulated delta-sigma DAC with dynamic 32x-128x oversampling.
 
